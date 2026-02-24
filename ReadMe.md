@@ -1,5 +1,5 @@
 # Sobre Mim:
-  Meu nome é Gustavo Lima Soares e sou estudante do 3° ano do ensino médio. Sou um aluno que busca expandir e explorar novas áreas de interesse, especialmente na área da tecnologia e da progamação.<br><br>  Estou comprometido em aproveitar ao máximo essa fase da minha vida, enfrentando desafios e adquirindo experiências valiosas. Tenho um grande interesse em jogos, tecnologia e linguagens de programação e estou animado para descobrir como esses interesses podem se integrar aos meus estudos e futuras realizações.
+  Meu nome é Gustavo Lima Soares sou estudante de ADS pela PUC Minas e formado no ensino medio pelo Cotemig. Sou um aluno que busca expandir e explorar novas áreas de interesse, especialmente na área da tecnologia e da progamação.<br><br>  Estou comprometido em aproveitar ao máximo essa fase da minha vida, enfrentando desafios e adquirindo experiências valiosas. Tenho um grande interesse em jogos, tecnologia e linguagens de programação e estou animado para descobrir como esses interesses podem se integrar aos meus estudos e futuras realizações.
 
 
 ## 🌐 Meios de comunicação:
